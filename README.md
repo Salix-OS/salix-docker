@@ -4,7 +4,7 @@ This is the Salix (i486) docker image. It includes a very minimal
 installation of Salix, which is just enough to run the slapt-get package
 manager.
 
-*NOTE:* if you don't explictly need a docker image with a 32-bit
+**NOTE:** if you don't explictly need a docker image with a 32-bit
 userspace, you would probably want to install the 
 [64-bit Salix Docker image](https://hub.docker.com/r/salixos/salix64)
 instead.
